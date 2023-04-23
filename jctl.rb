@@ -4,8 +4,8 @@
 class Jctl < Formula
   desc ""
   homepage ""
-  url "https://github.com/jonasvadebo/jclt/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "a2d74c6664bb0418066600de8746fdce1d2f00742c9088dc8ae0ddc7e3fa3e3b"
+  url "https://github.com/jonasvadebo/jclt/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "4ca9bb2ebe41dcc7fd5596c0fe56307649ec531c3445505745183326dd3b3d80"
   license ""
 
   depends_on "go" => :build
